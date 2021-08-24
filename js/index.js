@@ -18,7 +18,7 @@ const viewProduct = async () => {
       Talla:${Talla}
       </p>
       <a href="#" class="btn btn-light">Borrar</a>
-      <a href="#" class="btn btn-light">Editar</a>
+      <a href="./edicion.html" class="btn btn-light">Editar</a>
     </div>
        `;
   });
