@@ -5,7 +5,7 @@ const viewProduct = async () => {
   carta.innerHTML = '';
   const resp = await fetch("http://localhost:4000/ropa");
   const data = await resp.json();
-  data.map((productos) => {
+  data.forEach((productos) => {
     const { imagen, Talla, valor, nombre } = productos;
     carta.innerHTML = `
     <div class="card bg-dark text-white" style="width: 18rem;">
@@ -14,6 +14,7 @@ const viewProduct = async () => {
       <h5 class="card-title">${nombre}</h5>
       <p class="card-text">
       Precio:${valor}
+      <br>
       Talla:${Talla}
       </p>
       <a href="#" class="btn btn-light">Borrar</a>
@@ -22,3 +23,4 @@ const viewProduct = async () => {
        `;
   });
 };
+viewProduct()
