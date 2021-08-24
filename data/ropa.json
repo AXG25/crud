@@ -1,0 +1,67 @@
+{
+  "ropa": [
+    {
+      "nombre": "Falda Lyocell con boleros y bajo asimétrico",
+      "imagen": "https://esprit.vteximg.com.br/arquivos/ids/819906-1112-1370/34_642C002_A02128_3.jpg?v=637653480422730000",
+      "valor": "149.000",
+      "Talla": "L",
+      "id": "1"
+    },
+    {
+      "nombre": "new Pantalón fluido 100% algodón",
+      "image": "https://esprit.vteximg.com.br/arquivos/ids/819928-1112-1370/34_632C006_A00931_0.jpg?v=637653480442900000",
+      "valor": "179.900",
+      "Talla": "M",
+      "id": "2"
+    },
+    {
+      "nombre": "Camisa floral con hombros recogidos",
+      "imagen": "https://esprit.vteximg.com.br/arquivos/ids/819856-1112-1370/34_612C005_A02355_0.jpg?v=637653480307400000",
+      "valor": "149.900",
+      "Talla": "S",
+      "id": "3"
+    },
+    {
+      "nombre": "Polo prana en textil",
+      "imagen": "https://cuerosvelezco.vteximg.com.br/arquivos/ids/218094-1563-2344/1026733-01-01-polo.jpg?v=637636069897270000",
+      "valor": "139.930",
+      "Talla": "M",
+      "id": "4"
+    },
+    {
+      "nombre": "Camisa manga larga lino",
+      "imagen": "https://cuerosvelezco.vteximg.com.br/arquivos/ids/208744-1563-2344/1029638-28-01-camisa-manga-larga.jpg?v=637486696869070000",
+      "valor": "143.940",
+      "Talla": "M",
+      "id": "5"
+    },
+    {
+      "nombre": "Camisa manga larga estampada",
+      "imagen": "https://cuerosvelezco.vteximg.com.br/arquivos/ids/202378-1563-2344/1030017-43-04-camisa-manga-larga.jpg?v=637432309677230000",
+      "valor": "107.940",
+      "Talla": "XL",
+      "id": "6"
+    },
+    {
+      "nombre": "Camiseta para Niña",
+      "imagen": "https://surtitodo.vteximg.com.br/arquivos/ids/371517-2000-3000/02005300198101029-marfil-v1.jpg?v=637563570214030000",
+      "valor": "16.990",
+      "Talla": "S",
+      "id": "7"
+    },
+    {
+      "nombre": "Leggin para Niña Color",
+      "imagen": "https://surtitodo.vteximg.com.br/arquivos/ids/260309-2000-3000/05300111601024-gris-v1-.jpg?v=637491777545970000",
+      "valor": " 12.990",
+      "Talla": "M",
+      "id": "8"
+    },
+    {
+      "nombre": "Camibuso para Niño",
+      "imagen": "https://surtitodo.vteximg.com.br/arquivos/ids/369835-2000-3000/02005303017601013-beige-v1.jpg?v=637561782953300000",
+      "valor": "24.990",
+      "Talla": "S",
+      "id": "9"
+    }
+  ]
+}
