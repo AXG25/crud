@@ -1,8 +1,7 @@
-
 let carta = document.getElementById("carta");
 
 const viewProduct = async () => {
-  carta.innerHTML = '';
+  carta.innerHTML = "";
   const resp = await fetch("http://localhost:4000/ropa");
   const data = await resp.json();
   data.forEach((productos) => {
@@ -23,4 +22,4 @@ const viewProduct = async () => {
        `;
   });
 };
-viewProduct()
+viewProduct();
