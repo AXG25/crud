@@ -1,7 +1,8 @@
-.navbar {
-   
+.añadir{
+    margin:100px;
+    padding:30px;
+    color: white;
+    border-radius: 10px;
 }
 
-.footer{
-    margin-bottom: 0px !important;
-}
+
